@@ -1,6 +1,6 @@
 A chat app built with React and React-Chat-Engine. <br />
-Live Demo: https://app.netlify.com/sites/stoic-jang-2836eb/overview
-Username: Guest
+Live Demo: https://app.netlify.com/sites/stoic-jang-2836eb/overview <br />
+Username: Guest <br />
 Password: 123123
 
 
