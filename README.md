@@ -1,4 +1,6 @@
 A chat app built with React and React-Chat-Engine.
+Live Demo: https://app.netlify.com/sites/stoic-jang-2836eb/overview
+
 
 # Getting Started with Create React App
 
