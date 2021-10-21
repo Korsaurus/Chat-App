@@ -1,4 +1,4 @@
-A chat app built with React and React-Chat-Engine.
+A chat app built with React and React-Chat-Engine. <br />
 Live Demo: https://app.netlify.com/sites/stoic-jang-2836eb/overview
 
 
